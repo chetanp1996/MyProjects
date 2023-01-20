@@ -1,0 +1,10 @@
+#Added two new keys
+#Mon Sep 05 22:53:28 IST 2022
+principleAmount=25000
+roi=6
+Subject4=TOSCA
+applicationUrl=https\://www.google.com
+Subject3=Playwright
+password=manager
+expectedTitle=admin
+username=admin
